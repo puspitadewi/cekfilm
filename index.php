@@ -17,8 +17,8 @@
                                 <li class="active"><a href="./index.php">Homepage</a></li>
                                 <li ><a href="topanime.php">Anime <span class="arrow_carrot-down"></span></a>
                                     <ul class="dropdown">
-                                        <li><a href="topanime.php">TOP Anime</a></li>
-                                        <li><a href="./anime-details.html">Popular Anime</a></li>
+                                        <li><a href="topanime.php">TOP Anime Airing</a></li>
+                                        <li><a href="./anime-details.html">TOP Anime Upcoming</a></li>
                                        <!-- <li><a href="./anime-watching.html">Anime Watching</a></li>-->
                                        <!--  <li><a href="./blog-details.html">Blog Details</a></li>-->
                                     </ul>
@@ -39,10 +39,11 @@
                                    <!--  <li><a href="./blog-details.html">Blog Details</a></li>-->
                             </ul>
                         </li>
-                    <li><a href="">Drama Korea <span class="arrow_carrot-down"></span></a>
-                        <ul class="dropdown">
-                            <li><a href="">TOP Drakor </a></li>
-                            <li><a href="">Popular Drakor</a></li>
+                    <li><a href="">Trending all</a>
+                        <!--  <ul class="dropdown">-->
+                            <!-- <li><a href="">TOP Drakor </a></li>
+                            <li><a href="">Popular Drakor</a></li>-->
+                           <!--  <li><a href="./blog-details.html">Blog Details</a></li>-->
                            <!--  <li><a href="./anime-watching.html">Anime Watching</a></li>-->
                            <!--  <li><a href="./blog-details.html">Blog Details</a></li>-->
                     </ul>
